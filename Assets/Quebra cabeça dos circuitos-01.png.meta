@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 027547ca98e30d24cb4c7a758999deec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9124191313209211423
+    second: "Quebra cabe\xE7a dos circuitos-01_0"
+  - first:
+      213: 6046911622929837188
+    second: "Quebra cabe\xE7a dos circuitos-01_1"
+  - first:
+      213: -4990808535375235380
+    second: "Quebra cabe\xE7a dos circuitos-01_2"
+  - first:
+      213: -1518038305220077260
+    second: "Quebra cabe\xE7a dos circuitos-01_3"
+  - first:
+      213: 1006200563983682331
+    second: "Quebra cabe\xE7a dos circuitos-01_4"
+  - first:
+      213: 8365718743335294560
+    second: "Quebra cabe\xE7a dos circuitos-01_5"
+  - first:
+      213: -7031544196174958062
+    second: "Quebra cabe\xE7a dos circuitos-01_6"
+  - first:
+      213: -2107772192715677416
+    second: "Quebra cabe\xE7a dos circuitos-01_7"
+  - first:
+      213: 3792225175372395980
+    second: "Quebra cabe\xE7a dos circuitos-01_8"
+  - first:
+      213: -6758650270217688637
+    second: "Quebra cabe\xE7a dos circuitos-01_9"
+  - first:
+      213: -3202610762113739186
+    second: "Quebra cabe\xE7a dos circuitos-01_10"
+  - first:
+      213: 5646711807797560901
+    second: "Quebra cabe\xE7a dos circuitos-01_11"
+  - first:
+      213: -2650909209130091879
+    second: "Quebra cabe\xE7a dos circuitos-01_12"
+  - first:
+      213: -693534234261764597
+    second: "Quebra cabe\xE7a dos circuitos-01_13"
+  - first:
+      213: -855625691029858783
+    second: "Quebra cabe\xE7a dos circuitos-01_14"
+  - first:
+      213: -7671326919876821019
+    second: "Quebra cabe\xE7a dos circuitos-01_15"
+  - first:
+      213: 5669537041635038376
+    second: "Quebra cabe\xE7a dos circuitos-01_16"
+  - first:
+      213: 7381688325991821603
+    second: "Quebra cabe\xE7a dos circuitos-01_17"
+  - first:
+      213: -5996833956702451432
+    second: "Quebra cabe\xE7a dos circuitos-01_18"
+  - first:
+      213: -2487677453373786837
+    second: "Quebra cabe\xE7a dos circuitos-01_19"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_0"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2437
+        width: 67
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f6d8b5256d6043b12653e3dcb39a0
+      internalID: -9124191313209211423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_1"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2640
+        width: 481
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48724c90f6fe944b0fda427fbba2af
+      internalID: 6046911622929837188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_2"
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2437
+        width: 67
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cd9df811092847bab704ec56b27d1
+      internalID: -4990808535375235380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_3"
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2640
+        width: 480
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37d867bf74af2143a11d8b0bb6d31d6
+      internalID: -1518038305220077260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_4"
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 2448
+        width: 448
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614e53ba9122ce4f896aefcb1762d95
+      internalID: 1006200563983682331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_5"
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 2687
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf59e0d2be28784197bf0cdea834095
+      internalID: 8365718743335294560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_6"
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2687
+        width: 259
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af006e428866a84f81f1057684ec20b
+      internalID: -7031544196174958062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_7"
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 2234
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9ef9d107e09d44af4177236ba9c45
+      internalID: -2107772192715677416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_8"
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2228
+        width: 253
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c6ab46fb14af45a3185bd9f845714
+      internalID: 3792225175372395980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_9"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1611
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c695f703eea3846894ed406654d77d
+      internalID: -6758650270217688637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_10"
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1200
+        width: 731
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89865187d75be594a903e1803baacf01
+      internalID: -3202610762113739186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_11"
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1153
+        width: 731
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82381c6529e52a44b99b6da88f14c8f
+      internalID: 5646711807797560901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_12"
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 1166
+        width: 730
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c54ee9c72dd8204e94ce4180b4af186
+      internalID: -2650909209130091879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_13"
+      rect:
+        serializedVersion: 2
+        x: 4782
+        y: 1122
+        width: 731
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe698a34a02d24eb28e69f2ddf9005
+      internalID: -693534234261764597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_14"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1025
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d9238ffaaa80a4a81f3facd809d48f
+      internalID: -855625691029858783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_15"
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1027
+        width: 261
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f66a498c6ce6c42a6d9591b11b4e45
+      internalID: -7671326919876821019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_16"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 571
+        width: 258
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3292b0e0c6f11c44a88194bc8237a4f
+      internalID: 5669537041635038376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_17"
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 569
+        width: 250
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113449a548f5bc24085b2cb6679a9790
+      internalID: 7381688325991821603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_18"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 260
+        width: 736
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723d7890cca480f47aec154a2fccfda4
+      internalID: -5996833956702451432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quebra cabe\xE7a dos circuitos-01_19"
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 227
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17f92db9a8a2241b6ec91702c4e0ea
+      internalID: -2487677453373786837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c69e29b830a46914f8c65f14607f1098
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

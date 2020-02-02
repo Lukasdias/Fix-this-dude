@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: 19c0966651b70ae4a978fb6d7ad11165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6344995541094276886
+    second: tilesPacman_0
+  - first:
+      213: 6037955191311453359
+    second: tilesPacman_1
+  - first:
+      213: 2474417694631814025
+    second: tilesPacman_2
+  - first:
+      213: -4659281943617229760
+    second: tilesPacman_3
+  - first:
+      213: -5095089572486639766
+    second: tilesPacman_4
+  - first:
+      213: 8303219052883659010
+    second: tilesPacman_5
+  - first:
+      213: 1668063792248183206
+    second: tilesPacman_6
+  - first:
+      213: -2567224984628291185
+    second: tilesPacman_7
+  - first:
+      213: 8449366494602304190
+    second: tilesPacman_8
+  - first:
+      213: -8812117833549178817
+    second: tilesPacman_9
+  - first:
+      213: 812324181776402058
+    second: tilesPacman_10
+  - first:
+      213: -8356661655539415849
+    second: tilesPacman_11
+  - first:
+      213: 3387923895904753379
+    second: tilesPacman_12
+  - first:
+      213: -5824958184090174188
+    second: tilesPacman_13
+  - first:
+      213: -7118297918583933204
+    second: tilesPacman_14
+  - first:
+      213: 5298810738833449657
+    second: tilesPacman_15
+  - first:
+      213: -3765201503977501007
+    second: tilesPacman_16
+  - first:
+      213: 6604774741021701317
+    second: tilesPacman_17
+  - first:
+      213: 6979378814837738588
+    second: tilesPacman_18
+  - first:
+      213: 7123677476758387369
+    second: tilesPacman_19
+  - first:
+      213: 6711465049651808354
+    second: tilesPacman_20
+  - first:
+      213: 7849715537166228868
+    second: tilesPacman_21
+  - first:
+      213: -9109450143483704675
+    second: tilesPacman_22
+  - first:
+      213: 6359544446526157000
+    second: tilesPacman_23
+  - first:
+      213: 3347499254528733492
+    second: tilesPacman_24
+  - first:
+      213: 9086160394857051674
+    second: tilesPacman_25
+  - first:
+      213: -6056503860898834810
+    second: tilesPacman_26
+  - first:
+      213: 3029013048009999900
+    second: tilesPacman_27
+  - first:
+      213: 1988396180664004037
+    second: tilesPacman_28
+  - first:
+      213: -1228245656162195401
+    second: tilesPacman_29
+  - first:
+      213: 1175402270414699143
+    second: tilesPacman_30
+  - first:
+      213: -8956480256087254004
+    second: tilesPacman_31
+  - first:
+      213: 189961013040917202
+    second: tilesPacman_32
+  - first:
+      213: 6377461457490356647
+    second: tilesPacman_33
+  - first:
+      213: 5401591172668693573
+    second: tilesPacman_34
+  - first:
+      213: -4429846395160855268
+    second: tilesPacman_35
+  - first:
+      213: 544367360738742442
+    second: tilesPacman_36
+  - first:
+      213: 8397950726018834811
+    second: tilesPacman_37
+  - first:
+      213: 4972673662988949238
+    second: tilesPacman_38
+  - first:
+      213: 8650444992984067458
+    second: tilesPacman_39
+  - first:
+      213: 4247277252646835620
+    second: tilesPacman_40
+  - first:
+      213: -3270200854681228705
+    second: tilesPacman_41
+  - first:
+      213: -7478606483878031267
+    second: tilesPacman_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 47
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesPacman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ea402d394fc44dad383df9c85ab40
+      internalID: 6344995541094276886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c7ed43f3b384846ae79d705619b6e8
+      internalID: 6037955191311453359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ef5851b0c43e418f7ebe673ffd070
+      internalID: 2474417694631814025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300fdc575e7a879468dcf8b8661efe0f
+      internalID: -4659281943617229760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf77871788c42ba4bbb457319cdcc6eb
+      internalID: -5095089572486639766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e861789987e86468314fc170113784
+      internalID: 8303219052883659010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dba21cf2b763d4d91bd49aa862dc0f
+      internalID: 1668063792248183206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0ae42ceccbf24faff95a55923475d
+      internalID: -2567224984628291185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9d4c8cf50849c47a45fbc406e97f85
+      internalID: 8449366494602304190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb860bc1444114fa1dad6539358e71
+      internalID: -8812117833549178817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c432fd883045c646ba3cba7e419bb6a
+      internalID: 812324181776402058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de23a1d439f804097cff58fab68636
+      internalID: -8356661655539415849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26acfdeebb89c3c42b7f522338c92e4a
+      internalID: 3387923895904753379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2484359f7ca14eafe4b79b239b772
+      internalID: -5824958184090174188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310cedf34e93bc49a40c496f89a9d0f
+      internalID: -7118297918583933204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 913
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0bbee7a71828b4399bb12f60d76924
+      internalID: 5298810738833449657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7007d5c6a79872343a414c83376a7aec
+      internalID: -3765201503977501007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e863a5fc6387d41aaa89c018f30bfb
+      internalID: 6604774741021701317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4354873cb79949488f751e34441a306
+      internalID: 6979378814837738588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7bd3b5016cf241be99f58601c6817
+      internalID: 7123677476758387369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d665a523602fc348bfcac91a18d0cfb
+      internalID: 6711465049651808354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b21e784eda1343a684d4b49cc54fd
+      internalID: 7849715537166228868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e41f3e48cd684d82ffc997ed6356f
+      internalID: -9109450143483704675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934a8a8c938b4a849b753373ee641a4b
+      internalID: 6359544446526157000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b70311c135266343a04e1419eb9997a
+      internalID: 3347499254528733492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5b032f15dcab4cb7fdeaced11f03b
+      internalID: 9086160394857051674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1a97bf90d2d946ac786f46bde6a9d
+      internalID: -6056503860898834810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e54edaa9170742896ce9ae16b7eb7
+      internalID: 3029013048009999900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9cb38ccac6a44295ef3b5a15584fa
+      internalID: 1988396180664004037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a5bebc20fbb0143ba8f65997fae537
+      internalID: -1228245656162195401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_30
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 866
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd205a8d206c345ad706d360eb330c
+      internalID: 1175402270414699143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d7b1bfe990a54a8b029c5ccfeb522
+      internalID: -8956480256087254004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b2fe3dc6edd14a8df54a975bbaa8c
+      internalID: 189961013040917202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f73a39f804cb646a811a31167a11a4
+      internalID: 6377461457490356647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5945462907514bbe5dee8594a21db
+      internalID: 5401591172668693573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c56e265032abc47ae9b5a03b6afa64
+      internalID: -4429846395160855268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaed1a097c87634092f30e2bbb24935
+      internalID: 544367360738742442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a5274a98fb4a43b9356f85d8d71d8
+      internalID: 8397950726018834811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb20c821de57b7d4abee696f2a36598f
+      internalID: 4972673662988949238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_39
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f405711ed34ec40b7ae4320b5ee8b8
+      internalID: 8650444992984067458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846034cc258fb3f4ba2549099bdb13f2
+      internalID: 4247277252646835620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57889878d814a144869e842454f299d
+      internalID: -3270200854681228705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesPacman_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 819
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233d313b5ff73245bdaa222c39e953c
+      internalID: -7478606483878031267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a08778fa78b0ea4ca0b382782f84a54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

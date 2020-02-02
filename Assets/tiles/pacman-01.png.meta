@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 322ef609ed7b2f64fa2947842f276b7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5462003967888964768
+    second: pacman-01_0
+  - first:
+      213: 9185457477707326584
+    second: pacman-01_1
+  - first:
+      213: -3667403221977813175
+    second: pacman-01_2
+  - first:
+      213: -1036651365400036105
+    second: pacman-01_3
+  - first:
+      213: 2524606619088539552
+    second: pacman-01_4
+  - first:
+      213: 6530648421588498566
+    second: pacman-01_5
+  - first:
+      213: -603515981611951095
+    second: pacman-01_6
+  - first:
+      213: 951151591184028040
+    second: pacman-01_7
+  - first:
+      213: -2415400014204792260
+    second: pacman-01_8
+  - first:
+      213: -3835354367860511238
+    second: pacman-01_9
+  - first:
+      213: -1664589850416389125
+    second: pacman-01_10
+  - first:
+      213: 1645341286268273989
+    second: pacman-01_11
+  - first:
+      213: -7050549077618740374
+    second: pacman-01_12
+  - first:
+      213: 7327728470512762187
+    second: pacman-01_13
+  - first:
+      213: -333493527098469873
+    second: pacman-01_14
+  - first:
+      213: -3640483698478872588
+    second: pacman-01_15
+  - first:
+      213: -2067208614800373818
+    second: pacman-01_16
+  - first:
+      213: -3435050801863376409
+    second: pacman-01_17
+  - first:
+      213: 2984460847062611074
+    second: pacman-01_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 460
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman-01_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1662
+        width: 473
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6496a258deb0954d914cf997f397ee4
+      internalID: 5462003967888964768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_1
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1634
+        width: 339
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81e5ac3ab0f4e4e9f2b0af99d9d086
+      internalID: 9185457477707326584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_2
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1830
+        width: 363
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f57638a3651d94e83ad52242246b07
+      internalID: -3667403221977813175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_3
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 1833
+        width: 365
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84fe99942c95a4091193c962d10096
+      internalID: -1036651365400036105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1102
+        width: 475
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd96d22bd538f5146a975bf87c7c318b
+      internalID: 2524606619088539552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_5
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1234
+        width: 339
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402aee6ca04b7e045a12f808f93b6f09
+      internalID: 6530648421588498566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_6
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1238
+        width: 339
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaba57af24f4e84bbad071a272f7a18
+      internalID: -603515981611951095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_7
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1172
+        width: 479
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed01bf14bb66c4645b5bbc9f74f22a85
+      internalID: 951151591184028040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_8
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1229
+        width: 477
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e9abdf3f95b945b22b1669bfb6bc2
+      internalID: -2415400014204792260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 652
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0e3cc2553bb34388ba0458c906791
+      internalID: -3835354367860511238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_10
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 591
+        width: 339
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc736badba5d3a64aba575f107b7f559
+      internalID: -1664589850416389125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_11
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 615
+        width: 339
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b741f33b6c6447b6773c5cfd2a109
+      internalID: 1645341286268273989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_12
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 601
+        width: 356
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcdf3048659cbb4ca340366052360f6
+      internalID: -7050549077618740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 475
+        width: 285
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a75ce8840336b24cb66f5a77d22c84d
+      internalID: 7327728470512762187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 302
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde78960a394f04ca182aaf8b76b8d3
+      internalID: -333493527098469873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_15
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 149
+        width: 339
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c8b0ecf2692146b2e466c8ef96e58
+      internalID: -3640483698478872588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_16
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 149
+        width: 340
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78287f537b1a72479dc5adcf5ba4415
+      internalID: -2067208614800373818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_17
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 146
+        width: 341
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6763cd296cb74ba06b32a92ea162c
+      internalID: -3435050801863376409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-01_18
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 146
+        width: 341
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bcaf0bd2a3a3340a64851326a9af0b
+      internalID: 2984460847062611074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8f5fe879d4715f74bbb4bad52d4fd0fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
